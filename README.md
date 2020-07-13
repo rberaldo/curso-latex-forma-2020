@@ -1,4 +1,4 @@
-# Workshop de LaTeX no ForMA
+# Curso de LaTeX · ForMA · IEL/Unicamp
 
 O LaTeX (/ˈlɑːtɛx/ ou /ˈlɑːtɛk/) é um processador de textos. Diferentemente do
 Word ou LibreOffice Write, no entanto, o usuário não edita o texto visualmente,
@@ -15,7 +15,7 @@ colocados num sistema de versões, como o Git; o resultado final é profissional
 além de existirem pacotes que automaticamente formatam o texto de acordo com a
 ABNT, por exemplo.
 
-Neste workshop, partiremos do básico do LaTeX, como por exemplo o que são
+Neste curso, partiremos do básico do LaTeX, como por exemplo o que são
 comandos e como um arquivo é estruturado; passaremos por tópicos como listas,
 tipografia, tabelas, entre outros; e finalmente veremos como utilizar pacotes
 específicos para escrever artigos científicos, em especial pacotes que são
@@ -23,20 +23,17 @@ específicos para escrever artigos científicos, em especial pacotes que são
 
 ## Apresentações
 
-Este workshop nasceu como uma evolução e expansão do [Workshop de LaTeX para o
-OpenSanca](https://github.com/opensanca/workshop-latex). Abaixo, está o
-histórico das apresentações até hoje:
+Este curso nasceu como uma evolução e expansão do [Workshop de LaTeX para o
+OpenSanca](https://github.com/opensanca/workshop-latex). Por conta da
+pandemia do novo coronavírus, esta versão é uma adaptação sem slides para o
+formato de artigo em PDF. Abaixo, está o histórico das diferentes versões
+já realizadas:
 
+- 17, 24 e 31 de julho de 2020, por videoconferência
 - 20 e 27 de setembro de 2018, no IEL/Unicamp
 - 13 e 14 de junho de 2017, no SciELO
 - [28 de maio de 2016](https://www.meetup.com/pt-BR/opensanca/events/230102377/), no opensanca
 - [25 de junho de 2016](https://www.meetup.com/pt-BR/opensanca/events/231664154/), no opensanca
-
-## Como obter o LaTeX
-
-Recomendamos que todos os participantes do workshop possuam uma cópia do LaTeX
-instalada e funcionando. Veja o [guia-instalao.md](guia-instalacao.md) para
-mais informações.
 
 ## Recursos
 
